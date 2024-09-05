@@ -4,7 +4,7 @@ public class Recursivefunction {
             return 1;
         }
         System.out.println(n);
-        return n * factorial(n - 1); // Corrected the recursive call
+        return n * factorial(n - 1); 
     }
 
     public static void main(String[] args) {
